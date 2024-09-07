@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.left{
+    position: absolute;
+    margin-top: 5%;
+    font-size: 15px;
+    margin-left: 8%;
+}
+.right{
+    float: right;
+    padding-bottom: 20%;
+    margin-top: 5%;
+    font-size: 15px;
+    margin-right: 8%;
+}
+.lorem2{
+    margin-top: 10%;
+}
+.lorem3{
+    margin-top: 10%;
+}
+.lorem4{
+    margin-top: 10%;
+}
+.lorem6{
+    margin-top: 10%;
+}
+.lorem7{
+    margin-top: 10%;
+}
+.lorem8{
+    margin-top: 10%;
+}
+@media (max-width:  768px){
+    .left{
+        margin-left: 15%;
+    }
+    .right{
+        margin-top: 90%;
+        margin-right: 20%;
+    }
+}
